@@ -8,7 +8,7 @@ mt <- mtcars
 
 #Step 1: Which car has the best HP (hp stands for "horse power")  
 #1)	Is higher or lower HP best?
-# higer
+# higher
 #2)	Which car has the best hp?
 row.names(mt[which.max(mt$hp),])
 
